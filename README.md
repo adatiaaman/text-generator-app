@@ -1,6 +1,6 @@
 # app_1
 
-Creating an app which generates a text when a button is pressed. Demonstrated the usage of bloc library for state management.
+Demonstrated the usage of bloc library for state management.
 
 ## Getting Started
 
